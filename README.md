@@ -7,7 +7,7 @@ Welcome to the Snake Game project! This classic game allows players to control a
 
 You can play the Snake Game by clicking the link below:
 
-https://itsme442.github.io/snake-game/
+https://eliaszeru.github.io/snake-game/
 
 ▎Features
 
@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
    
 Bash
 
-   git clone https://github.com/itsme442/snake-game.git
+   git clone https://github.com/eliaszeru/snake-game.git
    
 
 2. Navigate to the project directory:
